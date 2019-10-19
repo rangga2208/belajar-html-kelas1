@@ -9,6 +9,7 @@ tag br = membuat enter/baris baru (Break)
 tag a = membuat link/jangkar (Anchor)
 tag h1 = heading 1 (untuk membuat judul website)
 tag img = menampilkan gambar (Image)
+tag center = membuat tulisan menjadi di tengah
 
 property/atribut = ada di dalam tag pembuka
 property href = ada di dalam tag a
