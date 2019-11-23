@@ -1,0 +1,11 @@
+membuat file absensi.html
+- isinya :
+
+nama    no absen  keterangan
+rara    1         masuk
+muklis  2         ijin
+adrian  3         masuk
+fajar   4         masuk
+
+
+- jangan lupa sesuaikan "judul dan menu utamanya" seperti halaman lain
